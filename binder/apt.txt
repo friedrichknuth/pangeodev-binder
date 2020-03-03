@@ -1,9 +1,7 @@
-# general linux 
 git
 vim
 parallel
 jq
-# libraries required for asp binary
 libx11-6
 libxfixes3
 libxinerama1
