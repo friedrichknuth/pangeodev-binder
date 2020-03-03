@@ -1,1 +1,1 @@
-FROM pangeodev/base-image:2020.02.27
+FROM fknuth/pangeo-notebook:34f709c
